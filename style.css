@@ -1,0 +1,417 @@
+*{
+    background-color: #ffd166;
+}
+
+.top_bar {
+    background-color: #9d0208;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.logosize {
+    height: 60px;
+    width: 90px;
+    background-color: black;
+}
+
+.logo {
+    height: 60px;
+    width: 80px;
+    background-image: url("minlgo.jpeg");
+    background-size: cover;
+    padding-left: 10px;
+}
+
+.nav_size {
+    background-color: transparent;
+    height: 40px;
+    width: 400px;
+    margin-left: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#boxsearch {
+    height: 28px;
+    width: 290px;
+}
+
+.search {
+    height: 28px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxsearch {
+    background-color: white;
+}
+.cart {
+    height: 28px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+
+/* userlogo */
+.userlogo{
+    height: 28px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+/* front */
+
+.front {
+    background-image: url('front.jpg');
+    height: 608px;
+    width: 100%;
+}
+
+/* authors */
+
+.auttext {
+    text-align: center;
+}
+/* photos */
+
+.authorsphoto {
+    /* background-color: brown; */
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test {
+    height: 300px;
+    width: 300px;
+    border-radius: 20%;
+    margin-left: 90px;
+}
+
+.unline {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+/* osho page */
+.heading {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+/* osho books */
+.books_photo {
+    /* background-color: black; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book1 {
+    height: 250px;
+    width: 210px;
+    background-image: url("phil.jpeg");
+    background-size: cover;
+    margin-left: 8px;
+    border: 5px solid black;
+}
+
+.book2 {
+    height: 250px;
+    width: 210px;
+    background-image: url("book1.jpeg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book3 {
+    height: 250px;
+    width: 210px;
+    background-image: url("ek.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book4 {
+    height: 250px;
+    width: 210px;
+    background-image: url("booksutra.jpeg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book5 {
+    height: 250px;
+    width: 210px;
+    background-image: url("waw.webp");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.books_photo2 {
+    /* background-color: black; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book21 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://1.bp.blogspot.com/-00WT0VuhbwQ/WVyPMiUexvI/AAAAAAAABDQ/nCusWxdEMIovzJ1ftt5SbhQAZoTvmocjgCLcBGAs/s1600/osho4105.jpg");
+    background-size: cover;
+    margin-left: 8px;
+    border: 5px solid black;
+}
+
+.book22 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://i.pinimg.com/736x/ac/08/8a/ac088a1dcf4fad44b4a099f2d2c7a44f.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book23 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.7Xg-G5Oy7RKZdh7aJSOFuAHaLc?pid=ImgDet&w=1647&h=2544&rs=1");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book24 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/R.1ec0788bf8cbee3bc92951b25e4babce?rik=ZesBs3Q4vYL7pg&riu=http%3a%2f%2foshomedia.blog.osho.com%2fwp-content%2fuploads%2f2009%2f11%2fDiscoverBuddha-OSHO.jpg&ehk=LqBiCi2%2bc%2bHvMKnNuwxjwCnjB%2fkTFuwqtuVb3D4jjyg%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book25 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://img1.od-cdn.com/ImageType-400/6852-1/92E/DEF/1F/%7B92EDEF1F-6A58-4EBF-AD86-D567D517EE97%7DImg400.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.books_photo3 {
+    /* background-color: black; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+;
+}
+
+.book31 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.2n_lvTY4ghbgWj5UIfo4rgHaJw?pid=ImgDet&rs=1");
+    background-size: cover;
+    margin-left: 8px;
+    border: 5px solid black;
+}
+
+.book32 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.y1VgHXl17QBuLE6DwqiSXwHaLL?pid=ImgDet&rs=1");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book33 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780312595517.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book34 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://m.media-amazon.com/images/I/51-Gu6w0cdL._SL500_.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book35 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/R.8069aea82d07a90c404512c879901a14?rik=KCTrxzVaDL7ong&riu=http%3a%2f%2foshomedia.blog.osho.com%2fwp-content%2fuploads%2f2014%2f02%2fPillarsOfConsciousness-2014-259x350.jpg&ehk=dS%2f2930jZUra8y4CGOyART%2bvVpwSVydsEeHUdv9ZqXQ%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.books_photo4 {
+    /* background-color: black; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book41 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/R.050f310e20dbfa99d22c1d686cad0e09?rik=9lZEiMUbeUW%2bRQ&riu=http%3a%2f%2foshomedia.blog.osho.com%2fwp-content%2fuploads%2f2012%2f05%2f9780880509879.jpg&ehk=yhnh5bLfq4OpgbEE8bwQGbIm%2fJlXNlAOHCxnbKZRXxQ%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    margin-left: 8px;
+    border: 5px solid black;
+}
+
+.book42 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.gX-r8g6HstEVEtjJCY4d_AAAAA?pid=ImgDet&rs=1");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book43 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.7H_Anjsjv3Oz_xs0_LTMjwAAAA?pid=ImgDet&rs=1");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book44 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://th.bing.com/th/id/OIP.S4KQfzNBWto3qpNHoKZOQgHaJ4?pid=ImgDet&rs=1");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+
+.book45 {
+    height: 250px;
+    width: 210px;
+    background-image: url("https://cdn.exoticindia.com/images/products/thumbnails/t400x300/books/nae060.jpg");
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+/* front page next slide for pasting photos */
+.text_slide {
+    text-align: center;
+}
+
+.slide_photo {
+    background-color: black;
+    height: 500px;
+    width: 100%;
+    background-image: url("https://www.buybooksindia.com/assets/images/banner/home/school-books.jpg");
+    background-size: contain;
+}
+
+/* history slide */
+
+.history_books {
+    /* background-color: aliceblue; */
+    height: 310px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.history1 {
+    background-image: url("https://i2.wp.com/www.kaffeinatedkonversations.com/wp-content/uploads/2020/12/India-After-Gandhi-by-Ramachandra.jpg");
+    height: 290px;
+    width: 200px;
+    background-size: contain;
+    margin-left: 7px;
+    border: 5px solid black;
+}
+
+.history2 {
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/91mq3UEpjGL.jpg");
+    height: 290px;
+    width: 200px;
+    background-size: contain;
+    margin-left: 25px;
+    border: 5px solid black;
+}
+
+.history3 {
+    background-image: url("https://th.bing.com/th/id/OIP.YiaTkTJIBBv3NWs2e96mAAHaKb?pid=ImgDet&rs=1");
+    height: 290px;
+    width: 200px;
+    background-size: contain;
+    margin-left: 25px;
+    border: 5px solid black;
+}
+
+.history4 {
+    background-image: url("https://th.bing.com/th/id/OIP.vqFuTswCiJZpqbG1Fa-DRgHaJj?pid=ImgDet&rs=1");
+    height: 290px;
+    width: 200px;
+    background-size: contain;
+    margin-left: 25px;
+    border: 5px solid black;
+}
+
+.history5 {
+    background-image: url("https://www.theschoolrun.com/sites/theschoolrun.com/files/styles/720/public/history_year_by_year.jpg?itok=WHizy1Rw");
+    height: 290px;
+    width: 200px;
+    background-size: contain;
+    margin-left: 25px;
+    border: 5px solid black;
+}
+
+/* new in store */
+.newtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newin{
+    background-color: black;
+    height: 320px;
+    width: 100%;
+    background-image: url('https://www.bookswagon.com/bannerimages/81_inr.jpg?v=3.1');
+    background-size: contain;
+}
+
